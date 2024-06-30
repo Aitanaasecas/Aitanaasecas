@@ -1,23 +1,14 @@
 
-<div align="center">
+<div align="justify">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">Hi there, I'm Aitana (a Secas), a dedicated technical support professional and an avid programming student.  👨‍💻 I'm currently on the lookout for a mentor to help me finally make the leap into a QA Tester position. 🚀Working remotely since 2020 🚀</div>  
+### <div align="center">Hi there, I'm Aitana (just Aitana), a dedicated technical support professional and an avid programming student. 🖥️ My journey in the world of computing began with MSDOS, exploring and learning at my own pace. Back in the 1990s, computing wasn’t highly valued and was often seen as a predominantly male field, which subtly steered me towards a support role rather than a more technical position.
 
+Over time, I've studied a variety of things, often without a clear guide or mentor, which has led me to know a bit about a lot but not deeply in any specific area. 🧑‍💻 Despite the initial challenges, I'm now eagerly seeking a mentor to help me finally make the leap into a Junior Dev. 🚀
 
-
-  
-
-- 🔭 I’m currently working on https://github.com/Aitanaasecas  
-  
-
-- 🌱 I’m currently learning Typescript  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
+Since 2020, I have been working remotely and continuously improving my skills through trial and error and reverse engineering. You might find many code oddities and quite unusual things in my repositories, but that's part of my unique learning process. Thanks for stopping by this corner of the web. I'm here to practice, practice, and practice some more. </div>  
 
 <br/>  
 
