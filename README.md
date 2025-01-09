@@ -18,29 +18,7 @@ Linux, Git Bash, Styled Components, Android, React, CSS3, HTML5, Java, JavaScrip
 <br/>  
 
 
-## My Skill Set  
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Aitanaasecas&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Aitanaasecas&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
